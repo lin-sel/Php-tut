@@ -19,7 +19,7 @@ output:
 
 
 // Actually it is working on Reference Concept.
-// Simple Explation: ${$var}. here value of $var is Lin_sel. now value of $val become variable name.
+// Simple Explation: ${$var}. here value of $var is Lin_sel. now value of $val become variable name like this $Lin_sel.
 
 
 // More Example:

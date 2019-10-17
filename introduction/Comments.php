@@ -1,14 +1,15 @@
 <?php
 
-// Single line comments.
 
-# Also Single line comments.
+// Single Line Comment use for comment Single Line.
 
 /*
 
-multi line comments.
+    This is Used For Multi-line Comment.
 
 */
+
+# This Hashtag also used for Single Line comment.
 
 
 ?>

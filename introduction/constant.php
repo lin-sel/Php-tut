@@ -7,7 +7,9 @@ Using define() function
 Using const keyword
 PHP constants follow the same PHP variable rules. For example, it can be started with letter or underscore only.
 
+//-------------------------------------------------------------------
 Conventionally, PHP constants should be defined in uppercase letters.
+//-------------------------------------------------------------------
 
 */
 

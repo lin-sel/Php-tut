@@ -37,6 +37,6 @@ echo __TRAIT__;
 // the name of the class method where it is used. The method name is returned as it was declared.
 echo __Method__;
 
-// he name of the current namespace.
+// The name of the current namespace.
 echo __NAMESPACE__;
 ?>

@@ -21,4 +21,6 @@ print "Hello by PHP print
       ";  
 
 print "Hello escape \"sequence\" characters by PHP print";  
+
+print "Hello escape \n characters by PHP print";  
 ?>
